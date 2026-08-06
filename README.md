@@ -15,3 +15,4 @@
 - [Pirestess@Arknights](roles/Pirestess@Arknights/): 普瑞赛斯 - 《明日方舟》
 - [Closure@Arknights](roles/Closure@Arknights/): 可露希尔 - 《明日方舟》
 - [Skadi@Arknights](roles/Skadi@Arknights/): 斯卡蒂（浊心斯卡蒂） - 《明日方舟》
+- [Lemuel@Arknights](roles/Lemuel@Arknights/): 能天使（新约能天使/蕾缪乐） - 《明日方舟》
