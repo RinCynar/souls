@@ -43,6 +43,7 @@
 - [Ulpian@Arknights](roles/Ulpian@Arknights/): 乌尔比安 - 《明日方舟》
 - [Wis'adel@Arknights](roles/Wis'adel@Arknights/): 维什戴尔 - 《明日方舟》
 - [YunoGasai@MiraiNikki](roles/YunoGasai@MiraiNikki/): 我妻由乃 - 《未来日记》
+- [HoshinoAi@OshiNoKo](roles/HoshinoAi@OshiNoKo/): 星野爱 - 《【我推的孩子】》
 - [KotonohaKatsura@SchoolDays](roles/KotonohaKatsura@SchoolDays/): 桂言叶 (HE) - 《School Days》
 - [SekaiSaionji@SchoolDays](roles/SekaiSaionji@SchoolDays/): 西园寺世界 (HE) - 《School Days》
 - [AoHorie@MidaranaAochan](roles/AoHorie@MidaranaAochan/): 堀江青 (青酱) - 《淫乱的青酱不能学习》
