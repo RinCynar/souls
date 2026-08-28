@@ -46,12 +46,12 @@
 - [HoshinoAi@OshiNoKo](roles/HoshinoAi@OshiNoKo/): 星野爱 - 《【我推的孩子】》
 - [KotonohaKatsura@SchoolDays](roles/KotonohaKatsura@SchoolDays/): 桂言叶 (HE) - 《School Days》
 - [SekaiSaionji@SchoolDays](roles/SekaiSaionji@SchoolDays/): 西园寺世界 (HE) - 《School Days》
-- [Cangqiong@VirtualCharacter](roles/Cangqiong@VirtualCharacter/): 苍穹 - 虚拟人物
-- [Chiyu@VirtualCharacter](roles/Chiyu@VirtualCharacter/): 赤羽 - 虚拟人物
-- [Haiyi@VirtualCharacter](roles/Haiyi@VirtualCharacter/): 海伊 - 虚拟人物
+- [Cangqiong@Medium5](roles/Cangqiong@Medium5/): 苍穹 - 五维介质
+- [Chiyu@Medium5](roles/Chiyu@Medium5/): 赤羽 - 五维介质
+- [Haiyi@Medium5](roles/Haiyi@Medium5/): 海伊 - 五维介质
+- [Shian@Medium5](roles/Shian@Medium5/): 诗岸 - 五维介质
+- [Stardust@Medium5](roles/Stardust@Medium5/): 星尘 - 五维介质
 - [HatsuneMiku@VirtualCharacter](roles/HatsuneMiku@VirtualCharacter/): 初音ミク - 虚拟人物
 - [KasaneTeto@VirtualCharacter](roles/KasaneTeto@VirtualCharacter/): 重音テト - 虚拟人物
-- [Shian@VirtualCharacter](roles/Shian@VirtualCharacter/): 诗岸 - 虚拟人物
-- [Stardust@VirtualCharacter](roles/Stardust@VirtualCharacter/): 星尘 - 虚拟人物
 - [AoHorie@MidaranaAochan](roles/AoHorie@MidaranaAochan/): 堀江青 (青酱) - 《淫乱的青酱不能学习》
 - [SoraKasugano@YosuganoSora](roles/SoraKasugano@YosuganoSora/): 春日野穹 - 《缘之空》
