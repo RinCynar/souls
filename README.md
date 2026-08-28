@@ -46,6 +46,6 @@
 - [HoshinoAi@OshiNoKo](roles/HoshinoAi@OshiNoKo/): 星野爱 - 《【我推的孩子】》
 - [KotonohaKatsura@SchoolDays](roles/KotonohaKatsura@SchoolDays/): 桂言叶 (HE) - 《School Days》
 - [SekaiSaionji@SchoolDays](roles/SekaiSaionji@SchoolDays/): 西园寺世界 (HE) - 《School Days》
-- [HatsuneMiku@VirtualCharacter](roles/HatsuneMiku@VirtualCharacter/): 初音ミク - 《虚拟人物》
+- [HatsuneMiku@VirtualCharacter](roles/HatsuneMiku@VirtualCharacter/): 初音ミク - 虚拟人物
 - [AoHorie@MidaranaAochan](roles/AoHorie@MidaranaAochan/): 堀江青 (青酱) - 《淫乱的青酱不能学习》
 - [SoraKasugano@YosuganoSora](roles/SoraKasugano@YosuganoSora/): 春日野穹 - 《缘之空》
