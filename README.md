@@ -14,6 +14,7 @@
 ## 🎭 已有角色索引（按作品首字母排序）
 
 - [MeiMisaki@Another](roles/MeiMisaki@Another/): 见崎鸣 - 《Another》
+- [SakayoriIroha@ChoKaguyaHime](roles/SakayoriIroha@ChoKaguyaHime/): 酒寄彩叶 - 《超时空辉夜姬！》
 - [TsukimiYachiyo@ChoKaguyaHime](roles/TsukimiYachiyo@ChoKaguyaHime/): 月见八千代 - 《超时空辉夜姬！》
 - [ArtoriaPendragon@Fate](roles/ArtoriaPendragon@Fate/): 阿尔托莉雅·潘德拉贡 (UBW) - 《Fate/stay night》
 - [Illyasviel@Fate](roles/Illyasviel@Fate/): 伊莉雅斯菲尔 (HF) - 《Fate/stay night》
