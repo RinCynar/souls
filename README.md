@@ -269,8 +269,8 @@ AI 平台负责提供模型、上下文、记忆、搜索、RAG 与交互能力�
 
 角色按作品名称排序：
 
-- [光（Silent Answer）](roles/Hikari@Arcaea) — 《Arcaea》
-- [对立（Silent Answer）](roles/Tairitsu@Arcaea) — 《Arcaea》
+- [光](roles/Hikari@Arcaea) — 《Arcaea》
+- [对立](roles/Tairitsu@Arcaea) — 《Arcaea》
 - [见崎鸣](roles/MeiMisaki@Another) — 《Another》
 - [酒寄彩叶](roles/SakayoriIroha@ChoKaguyaHime) — 《超时空辉夜姬！》
 - [月见八千代](roles/TsukimiYachiyo@ChoKaguyaHime) — 《超时空辉夜姬！》
